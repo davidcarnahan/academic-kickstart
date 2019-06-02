@@ -62,7 +62,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "david.carnahan@definitivelogic.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -71,4 +71,13 @@ user_groups:
 - Visitors
 ---
 
-David has experience as a healthcare information and technology executive, team leader, and physician data scientist. He worked with a great team to develop an enterprise platform for the Military Health System that is used by leadership for strategic measures and providers for population health. His expertise includes gathering requirements, software development lifecycle, business process development, analytics and research, enterprise measurement, population health, and talent management. He helps translate between groups: helping technologists understand the requirements of the clinical community, the clinical community to understand technology, and leadership to understand data science findings in support of a decision. After retirement from the military, he worked as the Global Director for OMOP Deployment & Remote Studies for IQVIA, an International Human Data Science Company but recently moved to a small business, Definitive Logic, to become the Director of Health IT Practice. His ultimate desire is to use his skills and experience to help transform medicine into a valued experience by both patients and clinicians. He wants to help clinicians by providing better uses of technology, innovation and data science, and to improve the quality of care for the patients through education, empowerment and better quality interactions with the healthcare system.
+David has experience as a healthcare information and technology executive, team leader, and physician data scientist. He believes teamwork is the key to success and he has worked with many great teams. A few projects that he is particularly proud of are:
+
+* Military Health System Information Platform -- also known as Carepoint. He started working with the team developing Carepoint in 2010 and was the product owner for 8 years up until he retired in 2018. He helped it transform from a quality measurement tool used monthly by quality measurement experts to a population health & information sharing platform used daily by providers and leaders.
+
+* The
+* The BEST Initiative -- a project led
+
+
+
+He worked with a great team to develop an enterprise platform for the Military Health System that is used by leadership for strategic measures and providers for population health. His expertise includes gathering requirements, software development lifecycle, business process development, analytics and research, enterprise measurement, population health, and talent management. He helps translate between groups: helping technologists understand the requirements of the clinical community, the clinical community to understand technology, and leadership to understand data science findings in support of a decision. After retirement from the military, he worked as the Global Director for OMOP Deployment & Remote Studies for IQVIA, an International Human Data Science Company but recently moved to a small business, Definitive Logic, to become the Director of Health IT Practice. His ultimate desire is to use his skills and experience to help transform medicine into a valued experience by both patients and clinicians. He wants to help clinicians by providing better uses of technology, innovation and data science, and to improve the quality of care for the patients through education, empowerment and better quality interactions with the healthcare system.
